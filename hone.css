@@ -34,7 +34,7 @@ body{
 }
 
 #showcase{
-    background-image: url(' ../images/pic.jpg');
+    background-image: url('https://cdn.pixabay.com/photo/2017/04/06/11/24/book-2208046__340.jpg ');
     background-position: center right;
     min-height: 300px;
     margin-bottom: 30px;
